@@ -21,5 +21,7 @@
  The frequency counter in this program is limited to low frequencies.  It works for frequencies up to ~1000 Hz, but will
  likely fail at 2000 Hz or before.  The tested frequency range is 30 to 1070 Hz.
  
+ Requires the NewLiquidCrystal Library from https://github.com/fmalpartida/New-LiquidCrystal
+ 
  Copyright 2018 by Dennis Cabell
  KE8FZX
