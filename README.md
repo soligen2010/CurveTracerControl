@@ -26,4 +26,4 @@
  Copyright 2018 by Dennis Cabell
  KE8FZX
 
-![Stepes Curves in Operation](https://https://github.com/soligen2010/CurveTracerControl/Pictures/CurveTracer.jpg)
+![Stepes Curves in Operation](https://github.com/soligen2010/CurveTracerControl/Pictures/CurveTracer.jpg)
